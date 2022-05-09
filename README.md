@@ -1,6 +1,6 @@
-# capstone_project2_group56
+# 2nd Capstone Project Group 56
 
-A new Flutter project.
+Side Hustle Flutter project.
 
 ## Getting Started
 
